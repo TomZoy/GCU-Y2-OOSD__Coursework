@@ -1,0 +1,19 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\ch6\CollectionsDemo\SimpleCollections\bin\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\ch6\CollectionsDemo\SimpleCollections\bin\Debug\SimpleCollections.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\ch6\CollectionsDemo\SimpleCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\ch6\CollectionsDemo\SimpleCollections\obj\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\ch6\CollectionsDemo\SimpleCollections\obj\Debug\SimpleCollections.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\SimpleCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\SimpleCollections\bin\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.csprojResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\SimpleCollections\obj\Debug\SimpleCollections.pdb

@@ -1,0 +1,13 @@
+comments:
+(working in alphabetical order)
+
+
++account - 100% done
++savingsAccount - 100% done
+
++credit transaction - 100% done
++withdrawal transaction - 100% done
++funds transfer - 100% done
+
++ ITransaction - 100% done
+

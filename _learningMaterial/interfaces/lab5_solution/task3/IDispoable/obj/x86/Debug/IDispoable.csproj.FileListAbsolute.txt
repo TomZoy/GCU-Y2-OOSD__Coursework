@@ -1,0 +1,14 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab4\IDispoable\IDispoable\bin\Debug\IDispoable.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab4\IDispoable\IDispoable\bin\Debug\IDispoable.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab4\IDispoable\IDispoable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab4\IDispoable\IDispoable\obj\x86\Debug\IDispoable.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab4\IDispoable\IDispoable\obj\x86\Debug\IDispoable.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab4\solution\IDispoable\IDispoable\obj\x86\Debug\IDispoable.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab4\solution\IDispoable\IDispoable\bin\Debug\IDispoable.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab4\solution\IDispoable\IDispoable\bin\Debug\IDispoable.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab4\solution\IDispoable\IDispoable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab4\solution\IDispoable\IDispoable\obj\x86\Debug\IDispoable.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab5\solution\task3\IDispoable\obj\x86\Debug\IDispoable.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab5\solution\task3\IDispoable\obj\x86\Debug\IDispoable.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab5\solution\task3\IDispoable\bin\Debug\IDispoable.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab5\solution\task3\IDispoable\bin\Debug\IDispoable.pdb

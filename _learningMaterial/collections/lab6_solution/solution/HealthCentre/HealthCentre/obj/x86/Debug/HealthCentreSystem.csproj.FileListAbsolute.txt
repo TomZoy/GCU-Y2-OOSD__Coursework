@@ -1,0 +1,52 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\bin\Debug\HealthCentre.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\bin\Debug\HealthCentre.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre_MarkupCompile.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.g.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.Properties.Resources.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre_MarkupCompile.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.g.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.Properties.Resources.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\1112\lab5\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.csprojResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.baml
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\App.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre_MarkupCompile.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.g.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.Properties.Resources.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.csproj.GenerateResource.Cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\bin\Debug\HealthCentre.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.csprojResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.baml
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\App.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre_MarkupCompile.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentre.g.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.Properties.Resources.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\solution\HealthCentre\HealthCentre\obj\x86\Debug\HealthCentreSystem.csproj.GenerateResource.Cache

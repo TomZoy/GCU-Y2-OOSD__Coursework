@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GCUBankModel.Account">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAACAAAAAgAACIAQAAAAAAAgAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GCUBankModel.CreditTransaction" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgQQAAAAAEAAAAAACgAAAAgAABAAAAAQAAAAA=</HashCode>
+      <FileName>CreditTransaction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GCUBankModel.FundsTransferTransaction" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgQAAAAAAEAAAAAACgAEgAgABJAAAAAQAAAAA=</HashCode>
+      <FileName>FundsTransferTransaction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GCUBankModel.SavingsAccount">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <InheritanceLine Type="GCUBankModel.Account" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="3.853" />
+        <Point X="1.25" Y="4.812" />
+        <Point X="3.25" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIEAAAIBAAAAAQAAAAA=</HashCode>
+      <FileName>SavingsAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GCUBankModel.WithdrawalTransaction" BaseTypeListCollapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgQQAAAAAEAAAAAACgAAAAgAABAAAAAQAAAAA=</HashCode>
+      <FileName>WithdrawalTransaction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="GCUBankModel.ITransaction">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAACgAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ITransaction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

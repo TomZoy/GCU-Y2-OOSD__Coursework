@@ -1,0 +1,32 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\task1\CollectionsLab\CollectionsLab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\test\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\lab5\test\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1213\lab6\test\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.csprojResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\bin\Debug\CollectionsLab.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.dll
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\bin\Debug\SimpleCollections.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\lab6\challengesolution\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.csprojResolveAssemblyReference.cache
+e:\GCU\OOSoftDev\COURSEWORK\collections\lab6_solution\solution\challenge\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.exe
+e:\GCU\OOSoftDev\COURSEWORK\collections\lab6_solution\solution\challenge\CollectionsLab\CollectionsLab\obj\x86\Debug\CollectionsLab.pdb

@@ -1,0 +1,76 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI_MarkupCompile.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.g.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.Properties.Resources.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI_MarkupCompile.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.g.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.Properties.Resources.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.exe
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\App.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI_MarkupCompile.cache
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.g.resources
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.Properties.Resources.resources
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI_MarkupCompile.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.g.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.Properties.Resources.resources
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankGUI.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.csprojResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\App.g.cs
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI_MarkupCompile.cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.g.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.Properties.Resources.resources
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.csproj.GenerateResource.Cache
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankModel.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\solution\GCUBankGUI\GCUBankGUI\bin\Debug\GCUBankModel.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\starter\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.exe
+C:\Users\jim\Documents\GCal\OOSD\code\1314\CW_Dec13\starter\GCUBankGUI\GCUBankGUI\obj\x86\Debug\GCUBankGUI.pdb

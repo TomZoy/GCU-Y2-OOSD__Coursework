@@ -1,0 +1,43 @@
+
+In Task 1:
+
+1. 	XML comments
+
+In Task 3:
+
+MainWindow.xaml – complete XAML code:
+
+• all the controls in the window are currently enclosed in a StackPanel container. They are
+functional, but the layout is not very attractive. Replace this container with a Grid, add
+row and column definitions and add attributes to controls as required to position them on
+the grid so that the layout looks similar to this:
+
+
+
+in task 3:
+-system test 2! (with working binding)
+
+in the end:
+
+-check solution against final class diagram!
+-clean up the code
+
+---------------------------------------------------------------------------------------
+
+are we comment classes? yes
+are we comment encapsulation? properties commented
+are we comment constructors? yes
+
+state the type of return? no
+
+
+COMMENTS DONE FOR:
+
+- ACCOUNT.CS
+- ITansaction.cs
+
+- fund*.cs
+- withdraw*.cs
+- credittrans*.cs
+
+savingsaccount still need to do !!!

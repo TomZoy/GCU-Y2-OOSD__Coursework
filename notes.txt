@@ -1,0 +1,11 @@
+- pdf page 4 bottom; the black backgrounded output, line 5 is wrong, misses the end. the comment in the program.cs is correct. 
+(mismatch)
+
+- can I add extra atributes? (not shown on the class diagram)
+
+- can I use code snipplets from the internet?
+
+
+- throw exception unhandeled? :S
+
+- return  exits from the method? (so the rest of it won't be executed)

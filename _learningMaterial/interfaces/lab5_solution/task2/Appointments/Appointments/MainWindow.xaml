@@ -1,0 +1,44 @@
+﻿<Window x:Class="Appointments.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Show full name" Height="333" Width="448">
+    <Grid Margin="15,15,15,15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto" ></RowDefinition>
+            <RowDefinition Height="Auto" ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="*" MinWidth="50" MaxWidth="800"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Margin="3"
+             VerticalAlignment="Center">ID:</Label>
+        <ComboBox Name="cmbPeople" Grid.Row="0" Grid.Column="1" Margin="3"
+             Height="Auto"  VerticalAlignment="Center" DisplayMemberPath="ID" 
+             SelectionChanged="cmbPeople_SelectionChanged"></ComboBox>
+        <Label Grid.Row="2" Grid.Column="0" Margin="3"
+             VerticalAlignment="Center">Full name:</Label>
+        <TextBox Name="txtFullName" Grid.Row="2" Grid.Column="1" Margin="3"
+             Height="Auto"  VerticalAlignment="Center"></TextBox>
+        <Label Grid.Row="3" Grid.Column="0" Margin="3"
+             VerticalAlignment="Center">Next available:</Label>
+        <TextBox Name="txtNext" Grid.Row="3" Grid.Column="1" Margin="3"
+             Height="Auto"  VerticalAlignment="Center"></TextBox>
+        <Label Grid.Row="4" Grid.Column="0" Margin="3"
+             VerticalAlignment="Center">Practice:</Label>
+        <TextBox Name="txtPractice" Grid.Row="4" Grid.Column="1" Margin="3"
+             Height="Auto"  VerticalAlignment="Center"></TextBox>
+        <Label Grid.Row="5" Grid.Column="0" Margin="3"
+             VerticalAlignment="Center">Hospital:</Label>
+        <TextBox Name="txtHospital" Grid.Row="5" Grid.Column="1" Margin="3"
+             Height="Auto"  VerticalAlignment="Center"></TextBox>
+       
+
+    </Grid>
+</Window>
