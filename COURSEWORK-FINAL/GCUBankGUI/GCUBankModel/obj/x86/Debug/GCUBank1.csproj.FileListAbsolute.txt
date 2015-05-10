@@ -1,0 +1,30 @@
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\GCUBank1\GCUBank1\bin\Debug\GCUBank1.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\GCUBank1\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\GCUBank1\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\GCUBank1\GCUBank1\obj\x86\Debug\GCUBank1.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\GCUBank1\GCUBank1\obj\x86\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBank1\GCUBank1\obj\x86\Debug\GCUBank1.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBank1\GCUBank1\obj\x86\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBank1\GCUBank1\bin\Debug\GCUBank1.exe
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBank1\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_dec10\solution\GCUBank1\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\labs_working\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_dec10\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.dll
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Users\jim\Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\bin\Debug\GCUBank1.pdb
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.dll
+C:\Documents and Settings\jpa1\My Documents\GCal\OOSD\code\cw_aug11\solution\GCUBankGUI\GCUBank1\obj\x86\Debug\GCUBank1.pdb

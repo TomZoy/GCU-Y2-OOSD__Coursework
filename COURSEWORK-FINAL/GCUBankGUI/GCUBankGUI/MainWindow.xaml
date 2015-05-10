@@ -1,0 +1,48 @@
+﻿<Window x:Class="GCUBankGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="400">
+
+    <Grid Margin="3,3,10,3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+
+
+
+
+
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="3" VerticalAlignment="Center" HorizontalAlignment="Left" Text="Account No: " FontSize="14" FontWeight="Bold" />
+        <TextBlock Grid.Row="0" Grid.Column="1" Margin="3" VerticalAlignment="Center" HorizontalAlignment="Left" x:Name="txtAccountNumber" FontSize="14" FontWeight="Bold" Text="{Binding Path=AccountNumber,Mode=OneTime}" />
+        <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Right" x:Name="txtBalance" FontSize="14" FontWeight="Bold" Margin="5" />
+
+        <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Text="Transaction amount: " Margin="5" />
+        <TextBox Grid.Row="2" Grid.Column="1"  VerticalAlignment="Center" x:Name="txtAmount" Margin="5" />
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="3" Text="Transaction type: "  VerticalAlignment="Center" />
+        <ComboBox Grid.Row="1" Grid.Column="1"  VerticalAlignment="Center" Name="cmbType" Margin="5" ItemsSource="{Binding}" SelectedIndex="0">
+                <ComboBoxItem Content="Credit" />
+                <ComboBoxItem Content="Withdrawal" />
+        </ComboBox>
+        <Button Grid.Row="3" Grid.Column="0" x:Name ="btnSave" Margin="5" Click="btnSave_Click">Save Transaction</Button>
+
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Margin="3" VerticalAlignment="Top" Text="Transactions: " />
+
+            <ListBox Grid.Row="4" Grid.Column="1"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" x:Name="lstTransactions" Margin="5"  />
+
+
+    </Grid>
+</Window>
